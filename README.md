@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GV-22
-- 👀 I’m interested in TypeScript, Python, Flutter, Node js, Vue Js, Machine learning, Rust
-- 🌱 I’m currently learning Nuxt Js
+- 👀 I’m interested in TypeScript, Python, Flutter, Node js, Vue Js, Machine learning, Rust, React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on the development of APIs, websites and mobile applications
 - 📫 How to reach me gaelvinou@gmail.com
 
